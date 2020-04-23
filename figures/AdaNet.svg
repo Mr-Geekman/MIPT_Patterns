@@ -1,0 +1,505 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="2 -18 1066 1053" xmlns:xlink="http://www.w3.org/1999/xlink" width="1066.0px" font-size="13" font-family="Arial, LiberationSans" version="1.1" height="1053.0px">
+  <defs>
+<style type="text/css"><![CDATA[svg text {text-rendering: geometricPrecision;}]]></style>    <linearGradient y1="0.0%" x1="0.0%" y2="100.0%" x2="0.0%" id="2fb3e826-c3b0-4fb7-860c-51a10f85b96a" spreadMethod="pad">
+      <stop stop-opacity="1" offset="0" stop-color="rgb(255, 255, 255)"/>
+      <stop stop-opacity="1" offset="100" stop-color="rgb(238, 238, 238)"/>
+    </linearGradient>
+    <linearGradient y1="0.0%" x1="0.0%" y2="100.0%" x2="0.0%" id="c3873e31-71a0-416d-ab3f-bcd83bcfdadc" spreadMethod="pad">
+      <stop stop-opacity="1" offset="0" stop-color="rgb(255, 255, 255)"/>
+      <stop stop-opacity="1" offset="100" stop-color="rgb(238, 238, 238)"/>
+    </linearGradient>
+    <linearGradient y1="0.0%" x1="0.0%" y2="100.0%" x2="0.0%" id="35a44ac9-1a7f-4efe-9049-e4e542d168bb" spreadMethod="pad">
+      <stop stop-opacity="1" offset="0" stop-color="rgb(255, 255, 255)"/>
+      <stop stop-opacity="1" offset="100" stop-color="rgb(238, 238, 238)"/>
+    </linearGradient>
+    <linearGradient y1="0.0%" x1="0.0%" y2="100.0%" x2="0.0%" id="e1b3c833-5807-49a9-be5a-cba39c9eea44" spreadMethod="pad">
+      <stop stop-opacity="1" offset="0" stop-color="rgb(255, 255, 255)"/>
+      <stop stop-opacity="1" offset="100" stop-color="rgb(238, 238, 238)"/>
+    </linearGradient>
+    <linearGradient y1="0.0%" x1="0.0%" y2="100.0%" x2="0.0%" id="d457c65b-1180-4b3c-be83-afedaeb005fd" spreadMethod="pad">
+      <stop stop-opacity="1" offset="0" stop-color="rgb(255, 255, 255)"/>
+      <stop stop-opacity="1" offset="100" stop-color="rgb(238, 238, 238)"/>
+    </linearGradient>
+    <linearGradient y1="0.0%" x1="0.0%" y2="100.0%" x2="0.0%" id="31a8c8fe-1c46-4daf-9d6c-549c75d68ce5" spreadMethod="pad">
+      <stop stop-opacity="1" offset="0" stop-color="rgb(255, 255, 255)"/>
+      <stop stop-opacity="1" offset="100" stop-color="rgb(238, 238, 238)"/>
+    </linearGradient>
+    <linearGradient y1="0.0%" x1="0.0%" y2="100.0%" x2="0.0%" id="4a0185a5-e3a8-41bb-8655-e3aeb3c739db" spreadMethod="pad">
+      <stop stop-opacity="1" offset="0" stop-color="rgb(255, 255, 255)"/>
+      <stop stop-opacity="1" offset="100" stop-color="rgb(238, 238, 238)"/>
+    </linearGradient>
+    <linearGradient y1="0.0%" x1="0.0%" y2="100.0%" x2="0.0%" id="a18e14d4-8c55-452f-9683-aceb06fb7514" spreadMethod="pad">
+      <stop stop-opacity="1" offset="0" stop-color="rgb(255, 255, 255)"/>
+      <stop stop-opacity="1" offset="100" stop-color="rgb(238, 238, 238)"/>
+    </linearGradient>
+    <linearGradient y1="0.0%" x1="0.0%" y2="100.0%" x2="0.0%" id="c92acfbe-014a-4f43-a890-a3707b521e05" spreadMethod="pad">
+      <stop stop-opacity="1" offset="0" stop-color="rgb(255, 255, 255)"/>
+      <stop stop-opacity="1" offset="100" stop-color="rgb(238, 238, 238)"/>
+    </linearGradient>
+    <linearGradient y1="0.0%" x1="0.0%" y2="100.0%" x2="0.0%" id="3823d02d-8e6c-4916-95b2-20211a62055f" spreadMethod="pad">
+      <stop stop-opacity="1" offset="0" stop-color="rgb(255, 255, 255)"/>
+      <stop stop-opacity="1" offset="100" stop-color="rgb(238, 238, 238)"/>
+    </linearGradient>
+    <linearGradient y1="0.0%" x1="0.0%" y2="100.0%" x2="0.0%" id="f99865e5-ba45-48f9-9d05-bcdad9a18aa4" spreadMethod="pad">
+      <stop stop-opacity="1" offset="0" stop-color="rgb(255, 255, 255)"/>
+      <stop stop-opacity="1" offset="100" stop-color="rgb(238, 238, 238)"/>
+    </linearGradient>
+    <linearGradient y1="0.0%" x1="0.0%" y2="100.0%" x2="0.0%" id="39d372cd-44ba-4875-9093-4fa5bb981734" spreadMethod="pad">
+      <stop stop-opacity="1" offset="0" stop-color="rgb(255, 255, 255)"/>
+      <stop stop-opacity="1" offset="100" stop-color="rgb(238, 238, 238)"/>
+    </linearGradient>
+    <linearGradient y1="0.0%" x1="0.0%" y2="100.0%" x2="0.0%" id="e7e62f55-6f91-44dc-8327-c68ee916be2a" spreadMethod="pad">
+      <stop stop-opacity="1" offset="0" stop-color="rgb(255, 255, 255)"/>
+      <stop stop-opacity="1" offset="100" stop-color="rgb(238, 238, 238)"/>
+    </linearGradient>
+    <linearGradient y1="0.0%" x1="0.0%" y2="100.0%" x2="0.0%" id="847451bf-77bf-47b7-8ebf-26a7a88d0ff2" spreadMethod="pad">
+      <stop stop-opacity="1" offset="0" stop-color="rgb(255, 255, 255)"/>
+      <stop stop-opacity="1" offset="100" stop-color="rgb(238, 238, 238)"/>
+    </linearGradient>
+    <linearGradient y1="0.0%" x1="0.0%" y2="100.0%" x2="0.0%" id="db0ff74d-dc9b-49bf-9db5-94d7dfdce459" spreadMethod="pad">
+      <stop stop-opacity="1" offset="0" stop-color="rgb(255, 255, 255)"/>
+      <stop stop-opacity="1" offset="100" stop-color="rgb(238, 238, 238)"/>
+    </linearGradient>
+    <linearGradient y1="0.0%" x1="0.0%" y2="100.0%" x2="0.0%" id="6794dcd8-e0dc-4aa3-9f6a-6a0b19699082" spreadMethod="pad">
+      <stop stop-opacity="1" offset="0" stop-color="rgb(255, 255, 255)"/>
+      <stop stop-opacity="1" offset="100" stop-color="rgb(238, 238, 238)"/>
+    </linearGradient>
+    <linearGradient y1="0.0%" x1="0.0%" y2="100.0%" x2="0.0%" id="e6f57136-b373-41f2-921e-361bbfc1811b" spreadMethod="pad">
+      <stop stop-opacity="1" offset="0" stop-color="rgb(255, 255, 255)"/>
+      <stop stop-opacity="1" offset="100" stop-color="rgb(238, 238, 238)"/>
+    </linearGradient>
+    <linearGradient y1="0.0%" x1="0.0%" y2="100.0%" x2="0.0%" id="ad7e82d9-fe71-4115-b0c2-c0ea5f13d5a7" spreadMethod="pad">
+      <stop stop-opacity="1" offset="0" stop-color="rgb(255, 255, 255)"/>
+      <stop stop-opacity="1" offset="100" stop-color="rgb(238, 238, 238)"/>
+    </linearGradient>
+    <linearGradient y1="0.0%" x1="0.0%" y2="100.0%" x2="0.0%" id="36960863-dd3e-4497-914b-fcc61a0de847" spreadMethod="pad">
+      <stop stop-opacity="1" offset="0" stop-color="rgb(255, 255, 255)"/>
+      <stop stop-opacity="1" offset="100" stop-color="rgb(238, 238, 238)"/>
+    </linearGradient>
+    <linearGradient y1="0.0%" x1="0.0%" y2="100.0%" x2="0.0%" id="19cea0c5-26b0-46b2-8c00-e7b8036118ea" spreadMethod="pad">
+      <stop stop-opacity="1" offset="0" stop-color="rgb(255, 255, 255)"/>
+      <stop stop-opacity="1" offset="100" stop-color="rgb(238, 238, 238)"/>
+    </linearGradient>
+    <linearGradient y1="0.0%" x1="0.0%" y2="100.0%" x2="0.0%" id="c0f1d028-bd93-49ba-b1ad-6e1648145e77" spreadMethod="pad">
+      <stop stop-opacity="1" offset="0" stop-color="rgb(255, 255, 255)"/>
+      <stop stop-opacity="1" offset="100" stop-color="rgb(238, 238, 238)"/>
+    </linearGradient>
+    <linearGradient y1="0.0%" x1="0.0%" y2="100.0%" x2="0.0%" id="46f0b49f-c4a3-46aa-bc63-14ee2e733ecb" spreadMethod="pad">
+      <stop stop-opacity="1" offset="0" stop-color="rgb(255, 255, 255)"/>
+      <stop stop-opacity="1" offset="100" stop-color="rgb(238, 238, 238)"/>
+    </linearGradient>
+    <linearGradient y1="0.0%" x1="0.0%" y2="100.0%" x2="0.0%" id="c80104f4-3ad1-4398-b4cb-7463bc72ee2b" spreadMethod="pad">
+      <stop stop-opacity="1" offset="0" stop-color="rgb(255, 255, 255)"/>
+      <stop stop-opacity="1" offset="100" stop-color="rgb(238, 238, 238)"/>
+    </linearGradient>
+    <linearGradient y1="0.0%" x1="0.0%" y2="100.0%" x2="0.0%" id="665ebf20-dd31-41de-8bf5-76d2ef0ffdb6" spreadMethod="pad">
+      <stop stop-opacity="1" offset="0" stop-color="rgb(255, 255, 255)"/>
+      <stop stop-opacity="1" offset="100" stop-color="rgb(238, 238, 238)"/>
+    </linearGradient>
+    <linearGradient y1="0.0%" x1="0.0%" y2="100.0%" x2="0.0%" id="5a7ef484-6142-4e07-ac26-50e7f6c1c384" spreadMethod="pad">
+      <stop stop-opacity="1" offset="0" stop-color="rgb(255, 255, 255)"/>
+      <stop stop-opacity="1" offset="100" stop-color="rgb(238, 238, 238)"/>
+    </linearGradient>
+    <linearGradient y1="0.0%" x1="0.0%" y2="100.0%" x2="0.0%" id="8c037119-1ef7-425d-9602-1299bc57a74f" spreadMethod="pad">
+      <stop stop-opacity="1" offset="0" stop-color="rgb(255, 255, 255)"/>
+      <stop stop-opacity="1" offset="100" stop-color="rgb(239, 233, 222)"/>
+    </linearGradient>
+    <linearGradient y1="0.0%" x1="0.0%" y2="100.0%" x2="0.0%" id="411fa8d4-4e79-4e8b-8da7-2119d27d1704" spreadMethod="pad">
+      <stop stop-opacity="1" offset="0" stop-color="rgb(255, 255, 255)"/>
+      <stop stop-opacity="1" offset="100" stop-color="rgb(239, 233, 222)"/>
+    </linearGradient>
+  </defs>
+  <desc>ClassDiagram</desc>
+  <g transform="translate(32.0,81.0)" id="_LpsScWbnEDiYXIL-TNWsLA">
+    <rect rx="3.0" ry="3.0" x="0.0" width="228.0px" y="0.0" stroke-width="1.0" fill="url(#2fb3e826-c3b0-4fb7-860c-51a10f85b96a)" stroke="rgb(187, 187, 187)" look="allInOne" height="140.0px"/>
+    <text font-weight="bold" text-anchor="middle" x="114.0" y="18.0" font-size="12" fill="rgb(105, 105, 105)">« Interface »</text>
+    <text font-weight="bold" text-anchor="middle" x="114.0" y="35.0" font-size="13" font-style="normal" fill="rgb(3, 54, 86)">Generator</text>
+    <text text-anchor="middle" x="114.0" y="51.0" font-size="12" fill="rgb(105, 105, 105)">(from subnetwork)</text>
+    <line y1="58.0" x1="0.0" y2="58.0" x2="228.0" stroke-width="1.0" stroke="rgb(187, 187, 187)" look="border"/>
+    <g transform="translate(0.0,58.0)" id="_b25g4WbnEDiYXIL-TNWsLA">
+      <image x="4.0" width="16.0" y="5.0" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAIGNIUk0AAG8dAAB6pAAA9NYAAIZwAAB37gAA9bAAADqjAAAVsi1zQqwAAAMAUExURQAAAP///8HBw6Ky1rfD3Ymh0au73Ku62Yag0aq72bPB27fD2b7J3YWh0Ieiz4ahzomk0Z2z2Ki72bPD3L7J23eXyIajz7TE27PD2rTD2maPxbvK38PP32OMwGSMvYamz7PE2LXE10V/vkh/v0d/vEiAvUh+vFGEu1OEvGaEpqC40kaBvUWAukd/ukmBvGGQvmSGqWOEpZ+61QA9cwA8cgA7cQI7cAM8czZ0rT16sEF9s0J9tUSBuE6GuVGFt2OGpmSHp2OEo2WGpWSFpAA8cAA9cAA7bwA8bgA9bgA7bQI8bgI8bD18slCGtWKFo2OGpGSHpQA9bAA7aDR3rAWBSUOcbHGxdf///wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADH1d5AAAABYdFJOU////////////////////////////////////////////////////////////////////////////////////////////////////////////////////wB4m8IIAAAA2UlEQVR42lSPzUoCURhAz/0cUrhjTYzuIu0PicZFy57ABxjQdxR8iQQJYmrTDYJZNEZQC2fGHPIndVyUkGdz4OyO6rCL/Mqkj//Ce8iR8Uge/sJzNUqG+etocH4PqA6TQEpfUzWvlBoOFDyKrsnOLnQi1weAEKRG37iTWWs8iJ9AqN9Ns/0sqL3oVf8YCl7UGO05lbKTDRer0FxZXNL8CE/tNMaHHgLx9+zkU9++gUDXgqK45Z8YH8DHAh3Z9tIGAWFtATUID2GNykFtb7vgq7y3vYV2G3JgMwDzTEnCPC8r9AAAAABJRU5ErkJggg==" height="16.0"/>
+      <text text-anchor="start" x="22.0" y="16.0" font-size="13" font-style="normal" fill="rgb(0, 0, 0)">generate_candidates(): list[Builder]</text>
+    </g>
+  </g>
+  <g transform="translate(298.0,81.0)" id="_MFcaUGbnEDiYXIL-TNWsLA">
+    <rect rx="3.0" ry="3.0" x="0.0" width="274.0px" y="0.0" stroke-width="1.0" fill="url(#c3873e31-71a0-416d-ab3f-bcd83bcfdadc)" stroke="rgb(187, 187, 187)" look="allInOne" height="101.0px"/>
+    <text font-weight="bold" text-anchor="middle" x="137.0" y="18.0" font-size="12" fill="rgb(105, 105, 105)">« Interface »</text>
+    <text font-weight="bold" text-anchor="middle" x="137.0" y="35.0" font-size="13" font-style="normal" fill="rgb(3, 54, 86)">Builder</text>
+    <text text-anchor="middle" x="137.0" y="51.0" font-size="12" fill="rgb(105, 105, 105)">(from subnetwork)</text>
+    <line y1="58.0" x1="0.0" y2="58.0" x2="274.0" stroke-width="1.0" stroke="rgb(187, 187, 187)" look="border"/>
+    <g transform="translate(0.0,58.0)" id="_lIPT8GboEDiYXIL-TNWsLA">
+      <image x="4.0" width="16.0" y="5.0" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAIGNIUk0AAG8dAAB6pAAA9NYAAIZwAAB37gAA9bAAADqjAAAVsi1zQqwAAAMAUExURQAAAP///8HBw6Ky1rfD3Ymh0au73Ku62Yag0aq72bPB27fD2b7J3YWh0Ieiz4ahzomk0Z2z2Ki72bPD3L7J23eXyIajz7TE27PD2rTD2maPxbvK38PP32OMwGSMvYamz7PE2LXE10V/vkh/v0d/vEiAvUh+vFGEu1OEvGaEpqC40kaBvUWAukd/ukmBvGGQvmSGqWOEpZ+61QA9cwA8cgA7cQI7cAM8czZ0rT16sEF9s0J9tUSBuE6GuVGFt2OGpmSHp2OEo2WGpWSFpAA8cAA9cAA7bwA8bgA9bgA7bQI8bgI8bD18slCGtWKFo2OGpGSHpQA9bAA7aDR3rAWBSUOcbHGxdf///wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADH1d5AAAABYdFJOU////////////////////////////////////////////////////////////////////////////////////////////////////////////////////wB4m8IIAAAA2UlEQVR42lSPzUoCURhAz/0cUrhjTYzuIu0PicZFy57ABxjQdxR8iQQJYmrTDYJZNEZQC2fGHPIndVyUkGdz4OyO6rCL/Mqkj//Ce8iR8Uge/sJzNUqG+etocH4PqA6TQEpfUzWvlBoOFDyKrsnOLnQi1weAEKRG37iTWWs8iJ9AqN9Ns/0sqL3oVf8YCl7UGO05lbKTDRer0FxZXNL8CE/tNMaHHgLx9+zkU9++gUDXgqK45Z8YH8DHAh3Z9tIGAWFtATUID2GNykFtb7vgq7y3vYV2G3JgMwDzTEnCPC8r9AAAAABJRU5ErkJggg==" height="16.0"/>
+      <text text-anchor="start" x="22.0" y="16.0" font-size="13" font-style="normal" fill="rgb(0, 0, 0)">build_subnetwork_train_op(): TrainOpSpec</text>
+    </g>
+    <g transform="translate(0.0,78.0)" id="_pkZ9QWboEDiYXIL-TNWsLA">
+      <image x="4.0" width="16.0" y="5.0" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAIGNIUk0AAG8dAAB6pAAA9NYAAIZwAAB37gAA9bAAADqjAAAVsi1zQqwAAAMAUExURQAAAP///8HBw6Ky1rfD3Ymh0au73Ku62Yag0aq72bPB27fD2b7J3YWh0Ieiz4ahzomk0Z2z2Ki72bPD3L7J23eXyIajz7TE27PD2rTD2maPxbvK38PP32OMwGSMvYamz7PE2LXE10V/vkh/v0d/vEiAvUh+vFGEu1OEvGaEpqC40kaBvUWAukd/ukmBvGGQvmSGqWOEpZ+61QA9cwA8cgA7cQI7cAM8czZ0rT16sEF9s0J9tUSBuE6GuVGFt2OGpmSHp2OEo2WGpWSFpAA8cAA9cAA7bwA8bgA9bgA7bQI8bgI8bD18slCGtWKFo2OGpGSHpQA9bAA7aDR3rAWBSUOcbHGxdf///wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADH1d5AAAABYdFJOU////////////////////////////////////////////////////////////////////////////////////////////////////////////////////wB4m8IIAAAA2UlEQVR42lSPzUoCURhAz/0cUrhjTYzuIu0PicZFy57ABxjQdxR8iQQJYmrTDYJZNEZQC2fGHPIndVyUkGdz4OyO6rCL/Mqkj//Ce8iR8Uge/sJzNUqG+etocH4PqA6TQEpfUzWvlBoOFDyKrsnOLnQi1weAEKRG37iTWWs8iJ9AqN9Ns/0sqL3oVf8YCl7UGO05lbKTDRer0FxZXNL8CE/tNMaHHgLx9+zkU9++gUDXgqK45Z8YH8DHAh3Z9tIGAWFtATUID2GNykFtb7vgq7y3vYV2G3JgMwDzTEnCPC8r9AAAAABJRU5ErkJggg==" height="16.0"/>
+      <text text-anchor="start" x="22.0" y="16.0" font-size="13" font-style="normal" fill="rgb(0, 0, 0)">build_subnetwork_report(): Report</text>
+    </g>
+  </g>
+  <g transform="translate(32.0,243.0)" id="_6oeXsWbnEDiYXIL-TNWsLA">
+    <rect rx="3.0" ry="3.0" x="0.0" width="228.0px" y="0.0" stroke-width="1.0" fill="url(#35a44ac9-1a7f-4efe-9049-e4e542d168bb)" stroke="rgb(187, 187, 187)" look="allInOne" height="80.0px"/>
+    <text font-weight="bold" text-anchor="middle" x="114.0" y="19.0" font-size="13" font-style="normal" fill="rgb(3, 54, 86)">SimpleGenerator</text>
+    <text text-anchor="middle" x="114.0" y="35.0" font-size="12" fill="rgb(105, 105, 105)">(from subnetwork)</text>
+    <line y1="42.0" x1="0.0" y2="42.0" x2="228.0" stroke-width="1.0" stroke="rgb(187, 187, 187)" look="border"/>
+    <g transform="translate(0.0,42.0)" id="_urpj4GboEDiYXIL-TNWsLA">
+      <image x="4.0" width="16.0" y="5.0" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAIGNIUk0AAG8dAAB6pAAA9NYAAIZwAAB37gAA9bAAADqjAAAVsi1zQqwAAAMAUExURQAAAP///8HBw6Ky1rfD3Ymh0au73Ku62Yag0aq72bPB27fD2b7J3YWh0Ieiz4ahzomk0Z2z2Ki72bPD3L7J23eXyIajz7TE27PD2rTD2maPxbvK38PP32OMwGSMvYamz7PE2LXE10V/vkh/v0d/vEiAvUh+vFGEu1OEvGaEpqC40kaBvUWAukd/ukmBvGGQvmSGqWOEpZ+61QA9cwA8cgA7cQI7cAM8czZ0rT16sEF9s0J9tUSBuE6GuVGFt2OGpmSHp2OEo2WGpWSFpAA8cAA9cAA7bwA8bgA9bgA7bQI8bgI8bD18slCGtWKFo2OGpGSHpQA9bAA7aDR3rAWBSUOcbHGxdf///wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADH1d5AAAABYdFJOU////////////////////////////////////////////////////////////////////////////////////////////////////////////////////wB4m8IIAAAA2UlEQVR42lSPzUoCURhAz/0cUrhjTYzuIu0PicZFy57ABxjQdxR8iQQJYmrTDYJZNEZQC2fGHPIndVyUkGdz4OyO6rCL/Mqkj//Ce8iR8Uge/sJzNUqG+etocH4PqA6TQEpfUzWvlBoOFDyKrsnOLnQi1weAEKRG37iTWWs8iJ9AqN9Ns/0sqL3oVf8YCl7UGO05lbKTDRer0FxZXNL8CE/tNMaHHgLx9+zkU9++gUDXgqK45Z8YH8DHAh3Z9tIGAWFtATUID2GNykFtb7vgq7y3vYV2G3JgMwDzTEnCPC8r9AAAAABJRU5ErkJggg==" height="16.0"/>
+      <text text-anchor="start" x="22.0" y="16.0" font-size="13" font-style="normal" fill="rgb(0, 0, 0)">generate_candidates(): list[Builder]</text>
+    </g>
+  </g>
+  <g transform="translate(298.0,243.0)" id="_VJnUEGboEDiYXIL-TNWsLA">
+    <rect rx="3.0" ry="3.0" x="0.0" width="109.0px" y="0.0" stroke-width="1.0" fill="url(#e1b3c833-5807-49a9-be5a-cba39c9eea44)" stroke="rgb(187, 187, 187)" look="allInOne" height="80.0px"/>
+    <text font-weight="bold" text-anchor="middle" x="54.5" y="19.0" font-size="13" font-style="normal" fill="rgb(3, 54, 86)">Report</text>
+    <text text-anchor="middle" x="54.5" y="35.0" font-size="12" fill="rgb(105, 105, 105)">(from subnetwork)</text>
+    <line y1="42.0" x1="0.0" y2="42.0" x2="109.0" stroke-width="1.0" stroke="rgb(187, 187, 187)" look="border"/>
+  </g>
+  <g transform="translate(426.0,243.0)" id="_WNqyEWboEDiYXIL-TNWsLA">
+    <rect rx="3.0" ry="3.0" x="0.0" width="129.0px" y="0.0" stroke-width="1.0" fill="url(#d457c65b-1180-4b3c-be83-afedaeb005fd)" stroke="rgb(187, 187, 187)" look="allInOne" height="80.0px"/>
+    <text font-weight="bold" text-anchor="middle" x="64.5" y="19.0" font-size="13" font-style="normal" fill="rgb(3, 54, 86)">MaterializedReport</text>
+    <text text-anchor="middle" x="64.5" y="35.0" font-size="12" fill="rgb(105, 105, 105)">(from subnetwork)</text>
+    <line y1="42.0" x1="0.0" y2="42.0" x2="129.0" stroke-width="1.0" stroke="rgb(187, 187, 187)" look="border"/>
+  </g>
+  <g transform="translate(719.0,243.0)" id="_YgH84WboEDiYXIL-TNWsLA">
+    <rect rx="3.0" ry="3.0" x="0.0" width="109.0px" y="0.0" stroke-width="1.0" fill="url(#31a8c8fe-1c46-4daf-9d6c-549c75d68ce5)" stroke="rgb(187, 187, 187)" look="allInOne" height="80.0px"/>
+    <text font-weight="bold" text-anchor="middle" x="54.5" y="19.0" font-size="13" font-style="normal" fill="rgb(3, 54, 86)">TrainOpSpec</text>
+    <text text-anchor="middle" x="54.5" y="35.0" font-size="12" fill="rgb(105, 105, 105)">(from subnetwork)</text>
+    <line y1="42.0" x1="0.0" y2="42.0" x2="109.0" stroke-width="1.0" stroke="rgb(187, 187, 187)" look="border"/>
+  </g>
+  <g transform="translate(581.0,243.0)" id="_iiA4kGboEDiYXIL-TNWsLA">
+    <rect rx="3.0" ry="3.0" x="0.0" width="109.0px" y="0.0" stroke-width="1.0" fill="url(#4a0185a5-e3a8-41bb-8655-e3aeb3c739db)" stroke="rgb(187, 187, 187)" look="allInOne" height="80.0px"/>
+    <text font-weight="bold" text-anchor="middle" x="54.5" y="19.0" font-size="13" font-style="normal" fill="rgb(3, 54, 86)">Subnetwork</text>
+    <text text-anchor="middle" x="54.5" y="35.0" font-size="12" fill="rgb(105, 105, 105)">(from subnetwork)</text>
+    <line y1="42.0" x1="0.0" y2="42.0" x2="109.0" stroke-width="1.0" stroke="rgb(187, 187, 187)" look="border"/>
+  </g>
+  <g transform="translate(32.0,424.0)" id="_3QQpQmboEDiYXIL-TNWsLA">
+    <rect rx="3.0" ry="3.0" x="0.0" width="310.0px" y="0.0" stroke-width="1.0" fill="url(#a18e14d4-8c55-452f-9683-aceb06fb7514)" stroke="rgb(187, 187, 187)" look="allInOne" height="80.0px"/>
+    <text font-weight="bold" text-anchor="middle" x="155.0" y="18.0" font-size="12" fill="rgb(105, 105, 105)">« Interface »</text>
+    <text font-weight="bold" text-anchor="middle" x="155.0" y="35.0" font-size="13" font-style="normal" fill="rgb(3, 54, 86)">Strategy</text>
+    <text text-anchor="middle" x="155.0" y="51.0" font-size="12" fill="rgb(105, 105, 105)">(from ensemble)</text>
+    <line y1="58.0" x1="0.0" y2="58.0" x2="310.0" stroke-width="1.0" stroke="rgb(187, 187, 187)" look="border"/>
+    <g transform="translate(0.0,58.0)" id="_wweF4GbpEDiYXIL-TNWsLA">
+      <image x="4.0" width="16.0" y="5.0" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAIGNIUk0AAG8dAAB6pAAA9NYAAIZwAAB37gAA9bAAADqjAAAVsi1zQqwAAAMAUExURQAAAP///8HBw6Ky1rfD3Ymh0au73Ku62Yag0aq72bPB27fD2b7J3YWh0Ieiz4ahzomk0Z2z2Ki72bPD3L7J23eXyIajz7TE27PD2rTD2maPxbvK38PP32OMwGSMvYamz7PE2LXE10V/vkh/v0d/vEiAvUh+vFGEu1OEvGaEpqC40kaBvUWAukd/ukmBvGGQvmSGqWOEpZ+61QA9cwA8cgA7cQI7cAM8czZ0rT16sEF9s0J9tUSBuE6GuVGFt2OGpmSHp2OEo2WGpWSFpAA8cAA9cAA7bwA8bgA9bgA7bQI8bgI8bD18slCGtWKFo2OGpGSHpQA9bAA7aDR3rAWBSUOcbHGxdf///wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADH1d5AAAABYdFJOU////////////////////////////////////////////////////////////////////////////////////////////////////////////////////wB4m8IIAAAA2UlEQVR42lSPzUoCURhAz/0cUrhjTYzuIu0PicZFy57ABxjQdxR8iQQJYmrTDYJZNEZQC2fGHPIndVyUkGdz4OyO6rCL/Mqkj//Ce8iR8Uge/sJzNUqG+etocH4PqA6TQEpfUzWvlBoOFDyKrsnOLnQi1weAEKRG37iTWWs8iJ9AqN9Ns/0sqL3oVf8YCl7UGO05lbKTDRer0FxZXNL8CE/tNMaHHgLx9+zkU9++gUDXgqK45Z8YH8DHAh3Z9tIGAWFtATUID2GNykFtb7vgq7y3vYV2G3JgMwDzTEnCPC8r9AAAAABJRU5ErkJggg==" height="16.0"/>
+      <text text-anchor="start" x="22.0" y="16.0" font-size="13" font-style="normal" fill="rgb(0, 0, 0)">generate_ensemble_candidates(): list[Candidate]</text>
+    </g>
+  </g>
+  <g transform="translate(636.0,548.0)" id="_4seIkWboEDiYXIL-TNWsLA">
+    <rect rx="3.0" ry="3.0" x="0.0" width="200.0px" y="0.0" stroke-width="1.0" fill="url(#c92acfbe-014a-4f43-a890-a3707b521e05)" stroke="rgb(187, 187, 187)" look="allInOne" height="80.0px"/>
+    <text font-weight="bold" text-anchor="middle" x="100.0" y="18.0" font-size="12" fill="rgb(105, 105, 105)">« Interface »</text>
+    <text font-weight="bold" text-anchor="middle" x="100.0" y="35.0" font-size="13" font-style="normal" fill="rgb(3, 54, 86)">Ensemble</text>
+    <text text-anchor="middle" x="100.0" y="51.0" font-size="12" fill="rgb(105, 105, 105)">(from ensemble)</text>
+    <line y1="58.0" x1="0.0" y2="58.0" x2="200.0" stroke-width="1.0" stroke="rgb(187, 187, 187)" look="border"/>
+    <g transform="translate(0.0,58.0)" id="_cwi-UGbqEDiYXIL-TNWsLA">
+      <image x="4.0" width="16.0" y="5.0" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAIGNIUk0AAG8dAAB6pAAA9NYAAIZwAAB37gAA9bAAADqjAAAVsi1zQqwAAAMAUExURQAAAP////3+/ypvqCtuqCtvqDF0qzp5rzp4rjp5rkN/skOAskR/sk2Ftk2GtlWMulaMulaNulaMuV6Svl6RvV6SvV+SvWWWwGWXwGqawvr9/+35//b8//L7/+T3/+H3/+T4/+z6/+36/+P4/+f5//L8//b9/wWBSUOcbHGxdf///wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACj1MwgAAAArdFJOU////////////////////////////////////////////////////////wAjyafQAAAAjklEQVR42lyPMQrCUBBE364bbbSwEcE+EO9/l0AqIZ0K2in8v7sWIkmc7s1MMSNnltI/xnjMcY8Rt4kPYNRjIYUUaCoYvr3vvvlzU0DxVyFiHetIcTDcgiZr4+EWYPjKrwC8udB3RtZTUSDGFgaMHDVBKqBBL7/pfQsaYIsXSsyMQHLeGGhhmN52HSTwGQCflTcMX9qOTgAAAABJRU5ErkJggg==" height="16.0"/>
+      <text text-anchor="start" x="22.0" y="16.0" font-size="13" fill="rgb(0, 0, 0)">subnetworks: list[Subnetwork]</text>
+    </g>
+  </g>
+  <g transform="translate(410.0,548.0)" id="_52-z4WboEDiYXIL-TNWsLA">
+    <rect rx="3.0" ry="3.0" x="0.0" width="201.0px" y="0.0" stroke-width="1.0" fill="url(#3823d02d-8e6c-4916-95b2-20211a62055f)" stroke="rgb(187, 187, 187)" look="allInOne" height="101.0px"/>
+    <text font-weight="bold" text-anchor="middle" x="100.5" y="18.0" font-size="12" fill="rgb(105, 105, 105)">« Interface »</text>
+    <text font-weight="bold" text-anchor="middle" x="100.5" y="35.0" font-size="13" font-style="normal" fill="rgb(3, 54, 86)">Ensembler</text>
+    <text text-anchor="middle" x="100.5" y="51.0" font-size="12" fill="rgb(105, 105, 105)">(from ensemble)</text>
+    <line y1="58.0" x1="0.0" y2="58.0" x2="201.0" stroke-width="1.0" stroke="rgb(187, 187, 187)" look="border"/>
+    <g transform="translate(0.0,58.0)" id="_YZNKoWbqEDiYXIL-TNWsLA">
+      <image x="4.0" width="16.0" y="5.0" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAIGNIUk0AAG8dAAB6pAAA9NYAAIZwAAB37gAA9bAAADqjAAAVsi1zQqwAAAMAUExURQAAAP///8HBw6Ky1rfD3Ymh0au73Ku62Yag0aq72bPB27fD2b7J3YWh0Ieiz4ahzomk0Z2z2Ki72bPD3L7J23eXyIajz7TE27PD2rTD2maPxbvK38PP32OMwGSMvYamz7PE2LXE10V/vkh/v0d/vEiAvUh+vFGEu1OEvGaEpqC40kaBvUWAukd/ukmBvGGQvmSGqWOEpZ+61QA9cwA8cgA7cQI7cAM8czZ0rT16sEF9s0J9tUSBuE6GuVGFt2OGpmSHp2OEo2WGpWSFpAA8cAA9cAA7bwA8bgA9bgA7bQI8bgI8bD18slCGtWKFo2OGpGSHpQA9bAA7aDR3rAWBSUOcbHGxdf///wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADH1d5AAAABYdFJOU////////////////////////////////////////////////////////////////////////////////////////////////////////////////////wB4m8IIAAAA2UlEQVR42lSPzUoCURhAz/0cUrhjTYzuIu0PicZFy57ABxjQdxR8iQQJYmrTDYJZNEZQC2fGHPIndVyUkGdz4OyO6rCL/Mqkj//Ce8iR8Uge/sJzNUqG+etocH4PqA6TQEpfUzWvlBoOFDyKrsnOLnQi1weAEKRG37iTWWs8iJ9AqN9Ns/0sqL3oVf8YCl7UGO05lbKTDRer0FxZXNL8CE/tNMaHHgLx9+zkU9++gUDXgqK45Z8YH8DHAh3Z9tIGAWFtATUID2GNykFtb7vgq7y3vYV2G3JgMwDzTEnCPC8r9AAAAABJRU5ErkJggg==" height="16.0"/>
+      <text text-anchor="start" x="22.0" y="16.0" font-size="13" font-style="normal" fill="rgb(0, 0, 0)">build_ensemble(): Ensemble</text>
+    </g>
+    <g transform="translate(0.0,78.0)" id="_aUBRgGbqEDiYXIL-TNWsLA">
+      <image x="4.0" width="16.0" y="5.0" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAIGNIUk0AAG8dAAB6pAAA9NYAAIZwAAB37gAA9bAAADqjAAAVsi1zQqwAAAMAUExURQAAAP///8HBw6Ky1rfD3Ymh0au73Ku62Yag0aq72bPB27fD2b7J3YWh0Ieiz4ahzomk0Z2z2Ki72bPD3L7J23eXyIajz7TE27PD2rTD2maPxbvK38PP32OMwGSMvYamz7PE2LXE10V/vkh/v0d/vEiAvUh+vFGEu1OEvGaEpqC40kaBvUWAukd/ukmBvGGQvmSGqWOEpZ+61QA9cwA8cgA7cQI7cAM8czZ0rT16sEF9s0J9tUSBuE6GuVGFt2OGpmSHp2OEo2WGpWSFpAA8cAA9cAA7bwA8bgA9bgA7bQI8bgI8bD18slCGtWKFo2OGpGSHpQA9bAA7aDR3rAWBSUOcbHGxdf///wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADH1d5AAAABYdFJOU////////////////////////////////////////////////////////////////////////////////////////////////////////////////////wB4m8IIAAAA2UlEQVR42lSPzUoCURhAz/0cUrhjTYzuIu0PicZFy57ABxjQdxR8iQQJYmrTDYJZNEZQC2fGHPIndVyUkGdz4OyO6rCL/Mqkj//Ce8iR8Uge/sJzNUqG+etocH4PqA6TQEpfUzWvlBoOFDyKrsnOLnQi1weAEKRG37iTWWs8iJ9AqN9Ns/0sqL3oVf8YCl7UGO05lbKTDRer0FxZXNL8CE/tNMaHHgLx9+zkU9++gUDXgqK45Z8YH8DHAh3Z9tIGAWFtATUID2GNykFtb7vgq7y3vYV2G3JgMwDzTEnCPC8r9AAAAABJRU5ErkJggg==" height="16.0"/>
+      <text text-anchor="start" x="22.0" y="16.0" font-size="13" font-style="normal" fill="rgb(0, 0, 0)">build_train_op(): TrainOpSpec</text>
+    </g>
+  </g>
+  <g transform="translate(868.0,548.0)" id="_8ANxQGboEDiYXIL-TNWsLA">
+    <rect rx="3.0" ry="3.0" x="0.0" width="99.0px" y="0.0" stroke-width="1.0" fill="url(#f99865e5-ba45-48f9-9d05-bcdad9a18aa4)" stroke="rgb(187, 187, 187)" look="allInOne" height="80.0px"/>
+    <text font-weight="bold" text-anchor="middle" x="49.5" y="19.0" font-size="13" font-style="normal" fill="rgb(3, 54, 86)">TrainOpSpec</text>
+    <text text-anchor="middle" x="49.5" y="35.0" font-size="12" fill="rgb(105, 105, 105)">(from ensemble)</text>
+    <line y1="42.0" x1="0.0" y2="42.0" x2="99.0" stroke-width="1.0" stroke="rgb(187, 187, 187)" look="border"/>
+  </g>
+  <g transform="translate(33.0,529.0)" id="_9LTrYmboEDiYXIL-TNWsLA">
+    <rect rx="3.0" ry="3.0" x="0.0" width="310.0px" y="0.0" stroke-width="1.0" fill="url(#39d372cd-44ba-4875-9093-4fa5bb981734)" stroke="rgb(187, 187, 187)" look="allInOne" height="80.0px"/>
+    <text font-weight="bold" text-anchor="middle" x="155.0" y="19.0" font-size="13" font-style="normal" fill="rgb(3, 54, 86)">AllStrategy</text>
+    <text text-anchor="middle" x="155.0" y="35.0" font-size="12" fill="rgb(105, 105, 105)">(from ensemble)</text>
+    <line y1="42.0" x1="0.0" y2="42.0" x2="310.0" stroke-width="1.0" stroke="rgb(187, 187, 187)" look="border"/>
+    <g transform="translate(0.0,42.0)" id="_5NTIQWbpEDiYXIL-TNWsLA">
+      <image x="4.0" width="16.0" y="5.0" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAIGNIUk0AAG8dAAB6pAAA9NYAAIZwAAB37gAA9bAAADqjAAAVsi1zQqwAAAMAUExURQAAAP///8HBw6Ky1rfD3Ymh0au73Ku62Yag0aq72bPB27fD2b7J3YWh0Ieiz4ahzomk0Z2z2Ki72bPD3L7J23eXyIajz7TE27PD2rTD2maPxbvK38PP32OMwGSMvYamz7PE2LXE10V/vkh/v0d/vEiAvUh+vFGEu1OEvGaEpqC40kaBvUWAukd/ukmBvGGQvmSGqWOEpZ+61QA9cwA8cgA7cQI7cAM8czZ0rT16sEF9s0J9tUSBuE6GuVGFt2OGpmSHp2OEo2WGpWSFpAA8cAA9cAA7bwA8bgA9bgA7bQI8bgI8bD18slCGtWKFo2OGpGSHpQA9bAA7aDR3rAWBSUOcbHGxdf///wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADH1d5AAAABYdFJOU////////////////////////////////////////////////////////////////////////////////////////////////////////////////////wB4m8IIAAAA2UlEQVR42lSPzUoCURhAz/0cUrhjTYzuIu0PicZFy57ABxjQdxR8iQQJYmrTDYJZNEZQC2fGHPIndVyUkGdz4OyO6rCL/Mqkj//Ce8iR8Uge/sJzNUqG+etocH4PqA6TQEpfUzWvlBoOFDyKrsnOLnQi1weAEKRG37iTWWs8iJ9AqN9Ns/0sqL3oVf8YCl7UGO05lbKTDRer0FxZXNL8CE/tNMaHHgLx9+zkU9++gUDXgqK45Z8YH8DHAh3Z9tIGAWFtATUID2GNykFtb7vgq7y3vYV2G3JgMwDzTEnCPC8r9AAAAABJRU5ErkJggg==" height="16.0"/>
+      <text text-anchor="start" x="22.0" y="16.0" font-size="13" font-style="normal" fill="rgb(0, 0, 0)">generate_ensemble_candidates(): list[Candidate]</text>
+    </g>
+  </g>
+  <g transform="translate(33.0,628.0)" id="_90UMIWboEDiYXIL-TNWsLA">
+    <rect rx="3.0" ry="3.0" x="0.0" width="310.0px" y="0.0" stroke-width="1.0" fill="url(#e7e62f55-6f91-44dc-8327-c68ee916be2a)" stroke="rgb(187, 187, 187)" look="allInOne" height="80.0px"/>
+    <text font-weight="bold" text-anchor="middle" x="155.0" y="19.0" font-size="13" font-style="normal" fill="rgb(3, 54, 86)">SoloStrategy</text>
+    <text text-anchor="middle" x="155.0" y="35.0" font-size="12" fill="rgb(105, 105, 105)">(from ensemble)</text>
+    <line y1="42.0" x1="0.0" y2="42.0" x2="310.0" stroke-width="1.0" stroke="rgb(187, 187, 187)" look="border"/>
+    <g transform="translate(0.0,42.0)" id="_NQcGcWbqEDiYXIL-TNWsLA">
+      <image x="4.0" width="16.0" y="5.0" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAIGNIUk0AAG8dAAB6pAAA9NYAAIZwAAB37gAA9bAAADqjAAAVsi1zQqwAAAMAUExURQAAAP///8HBw6Ky1rfD3Ymh0au73Ku62Yag0aq72bPB27fD2b7J3YWh0Ieiz4ahzomk0Z2z2Ki72bPD3L7J23eXyIajz7TE27PD2rTD2maPxbvK38PP32OMwGSMvYamz7PE2LXE10V/vkh/v0d/vEiAvUh+vFGEu1OEvGaEpqC40kaBvUWAukd/ukmBvGGQvmSGqWOEpZ+61QA9cwA8cgA7cQI7cAM8czZ0rT16sEF9s0J9tUSBuE6GuVGFt2OGpmSHp2OEo2WGpWSFpAA8cAA9cAA7bwA8bgA9bgA7bQI8bgI8bD18slCGtWKFo2OGpGSHpQA9bAA7aDR3rAWBSUOcbHGxdf///wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADH1d5AAAABYdFJOU////////////////////////////////////////////////////////////////////////////////////////////////////////////////////wB4m8IIAAAA2UlEQVR42lSPzUoCURhAz/0cUrhjTYzuIu0PicZFy57ABxjQdxR8iQQJYmrTDYJZNEZQC2fGHPIndVyUkGdz4OyO6rCL/Mqkj//Ce8iR8Uge/sJzNUqG+etocH4PqA6TQEpfUzWvlBoOFDyKrsnOLnQi1weAEKRG37iTWWs8iJ9AqN9Ns/0sqL3oVf8YCl7UGO05lbKTDRer0FxZXNL8CE/tNMaHHgLx9+zkU9++gUDXgqK45Z8YH8DHAh3Z9tIGAWFtATUID2GNykFtb7vgq7y3vYV2G3JgMwDzTEnCPC8r9AAAAABJRU5ErkJggg==" height="16.0"/>
+      <text text-anchor="start" x="22.0" y="16.0" font-size="13" font-style="normal" fill="rgb(0, 0, 0)">generate_ensemble_candidates(): list[Candidate]</text>
+    </g>
+  </g>
+  <g transform="translate(33.0,734.0)" id="_BL2IoGbpEDiYXIL-TNWsLA">
+    <rect rx="3.0" ry="3.0" x="0.0" width="310.0px" y="0.0" stroke-width="1.0" fill="url(#847451bf-77bf-47b7-8ebf-26a7a88d0ff2)" stroke="rgb(187, 187, 187)" look="allInOne" height="80.0px"/>
+    <text font-weight="bold" text-anchor="middle" x="155.0" y="19.0" font-size="13" font-style="normal" fill="rgb(3, 54, 86)">GrowStrategy</text>
+    <text text-anchor="middle" x="155.0" y="35.0" font-size="12" fill="rgb(105, 105, 105)">(from ensemble)</text>
+    <line y1="42.0" x1="0.0" y2="42.0" x2="310.0" stroke-width="1.0" stroke="rgb(187, 187, 187)" look="border"/>
+    <g transform="translate(0.0,42.0)" id="_Pj3hoWbqEDiYXIL-TNWsLA">
+      <image x="4.0" width="16.0" y="5.0" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAIGNIUk0AAG8dAAB6pAAA9NYAAIZwAAB37gAA9bAAADqjAAAVsi1zQqwAAAMAUExURQAAAP///8HBw6Ky1rfD3Ymh0au73Ku62Yag0aq72bPB27fD2b7J3YWh0Ieiz4ahzomk0Z2z2Ki72bPD3L7J23eXyIajz7TE27PD2rTD2maPxbvK38PP32OMwGSMvYamz7PE2LXE10V/vkh/v0d/vEiAvUh+vFGEu1OEvGaEpqC40kaBvUWAukd/ukmBvGGQvmSGqWOEpZ+61QA9cwA8cgA7cQI7cAM8czZ0rT16sEF9s0J9tUSBuE6GuVGFt2OGpmSHp2OEo2WGpWSFpAA8cAA9cAA7bwA8bgA9bgA7bQI8bgI8bD18slCGtWKFo2OGpGSHpQA9bAA7aDR3rAWBSUOcbHGxdf///wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADH1d5AAAABYdFJOU////////////////////////////////////////////////////////////////////////////////////////////////////////////////////wB4m8IIAAAA2UlEQVR42lSPzUoCURhAz/0cUrhjTYzuIu0PicZFy57ABxjQdxR8iQQJYmrTDYJZNEZQC2fGHPIndVyUkGdz4OyO6rCL/Mqkj//Ce8iR8Uge/sJzNUqG+etocH4PqA6TQEpfUzWvlBoOFDyKrsnOLnQi1weAEKRG37iTWWs8iJ9AqN9Ns/0sqL3oVf8YCl7UGO05lbKTDRer0FxZXNL8CE/tNMaHHgLx9+zkU9++gUDXgqK45Z8YH8DHAh3Z9tIGAWFtATUID2GNykFtb7vgq7y3vYV2G3JgMwDzTEnCPC8r9AAAAABJRU5ErkJggg==" height="16.0"/>
+      <text text-anchor="start" x="22.0" y="16.0" font-size="13" font-style="normal" fill="rgb(0, 0, 0)">generate_ensemble_candidates(): list[Candidate]</text>
+    </g>
+  </g>
+  <g transform="translate(410.0,424.0)" id="_WSbg0GbpEDiYXIL-TNWsLA">
+    <rect rx="3.0" ry="3.0" x="0.0" width="336.0px" y="0.0" stroke-width="1.0" fill="url(#db0ff74d-dc9b-49bf-9db5-94d7dfdce459)" stroke="rgb(187, 187, 187)" look="allInOne" height="106.0px"/>
+    <text font-weight="bold" text-anchor="middle" x="168.0" y="19.0" font-size="13" font-style="normal" fill="rgb(3, 54, 86)">Candidate</text>
+    <text text-anchor="middle" x="168.0" y="35.0" font-size="12" fill="rgb(105, 105, 105)">(from ensemble)</text>
+    <line y1="42.0" x1="0.0" y2="42.0" x2="336.0" stroke-width="1.0" stroke="rgb(187, 187, 187)" look="border"/>
+    <g transform="translate(0.0,42.0)" id="_rib6wGbpEDiYXIL-TNWsLA">
+      <image x="4.0" width="16.0" y="5.0" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAIGNIUk0AAG8dAAB6pAAA9NYAAIZwAAB37gAA9bAAADqjAAAVsi1zQqwAAAMAUExURQAAAP////3+/ypvqCtuqCtvqDF0qzp5rzp4rjp5rkN/skOAskR/sk2Ftk2GtlWMulaMulaNulaMuV6Svl6RvV6SvV+SvWWWwGWXwGqawvr9/+35//b8//L7/+T3/+H3/+T4/+z6/+36/+P4/+f5//L8//b9/wWBSUOcbHGxdf///wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACj1MwgAAAArdFJOU////////////////////////////////////////////////////////wAjyafQAAAAjklEQVR42lyPMQrCUBBE364bbbSwEcE+EO9/l0AqIZ0K2in8v7sWIkmc7s1MMSNnltI/xnjMcY8Rt4kPYNRjIYUUaCoYvr3vvvlzU0DxVyFiHetIcTDcgiZr4+EWYPjKrwC8udB3RtZTUSDGFgaMHDVBKqBBL7/pfQsaYIsXSsyMQHLeGGhhmN52HSTwGQCflTcMX9qOTgAAAABJRU5ErkJggg==" height="16.0"/>
+      <text text-anchor="start" x="22.0" y="16.0" font-size="13" fill="rgb(0, 0, 0)">name: String</text>
+    </g>
+    <g transform="translate(0.0,62.0)" id="_XbezkGbpEDiYXIL-TNWsLA">
+      <image x="4.0" width="16.0" y="5.0" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAIGNIUk0AAG8dAAB6pAAA9NYAAIZwAAB37gAA9bAAADqjAAAVsi1zQqwAAAMAUExURQAAAP////3+/ypvqCtuqCtvqDF0qzp5rzp4rjp5rkN/skOAskR/sk2Ftk2GtlWMulaMulaNulaMuV6Svl6RvV6SvV+SvWWWwGWXwGqawvr9/+35//b8//L7/+T3/+H3/+T4/+z6/+36/+P4/+f5//L8//b9/wWBSUOcbHGxdf///wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACj1MwgAAAArdFJOU////////////////////////////////////////////////////////wAjyafQAAAAjklEQVR42lyPMQrCUBBE364bbbSwEcE+EO9/l0AqIZ0K2in8v7sWIkmc7s1MMSNnltI/xnjMcY8Rt4kPYNRjIYUUaCoYvr3vvvlzU0DxVyFiHetIcTDcgiZr4+EWYPjKrwC8udB3RtZTUSDGFgaMHDVBKqBBL7/pfQsaYIsXSsyMQHLeGGhhmN52HSTwGQCflTcMX9qOTgAAAABJRU5ErkJggg==" height="16.0"/>
+      <text text-anchor="start" x="22.0" y="16.0" font-size="13" fill="rgb(0, 0, 0)">subnetwork_builders: list[Builder]</text>
+    </g>
+    <g transform="translate(0.0,82.0)" id="_nKGokGbpEDiYXIL-TNWsLA">
+      <image x="4.0" width="16.0" y="5.0" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAIGNIUk0AAG8dAAB6pAAA9NYAAIZwAAB37gAA9bAAADqjAAAVsi1zQqwAAAMAUExURQAAAP////3+/ypvqCtuqCtvqDF0qzp5rzp4rjp5rkN/skOAskR/sk2Ftk2GtlWMulaMulaNulaMuV6Svl6RvV6SvV+SvWWWwGWXwGqawvr9/+35//b8//L7/+T3/+H3/+T4/+z6/+36/+P4/+f5//L8//b9/wWBSUOcbHGxdf///wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACj1MwgAAAArdFJOU////////////////////////////////////////////////////////wAjyafQAAAAjklEQVR42lyPMQrCUBBE364bbbSwEcE+EO9/l0AqIZ0K2in8v7sWIkmc7s1MMSNnltI/xnjMcY8Rt4kPYNRjIYUUaCoYvr3vvvlzU0DxVyFiHetIcTDcgiZr4+EWYPjKrwC8udB3RtZTUSDGFgaMHDVBKqBBL7/pfQsaYIsXSsyMQHLeGGhhmN52HSTwGQCflTcMX9qOTgAAAABJRU5ErkJggg==" height="16.0"/>
+      <text text-anchor="start" x="22.0" y="16.0" font-size="13" fill="rgb(0, 0, 0)">previous_ensemble_subnetwork_builders: list[Builder]</text>
+    </g>
+  </g>
+  <g transform="translate(410.0,695.0)" id="_pTI8MWbqEDiYXIL-TNWsLA">
+    <rect rx="3.0" ry="3.0" x="0.0" width="201.0px" y="0.0" stroke-width="1.0" fill="url(#6794dcd8-e0dc-4aa3-9f6a-6a0b19699082)" stroke="rgb(187, 187, 187)" look="allInOne" height="85.0px"/>
+    <text font-weight="bold" text-anchor="middle" x="100.5" y="19.0" font-size="13" font-style="normal" fill="rgb(3, 54, 86)">MeanEnsembler</text>
+    <text text-anchor="middle" x="100.5" y="35.0" font-size="12" fill="rgb(105, 105, 105)">(from ensemble)</text>
+    <line y1="42.0" x1="0.0" y2="42.0" x2="201.0" stroke-width="1.0" stroke="rgb(187, 187, 187)" look="border"/>
+    <g transform="translate(0.0,42.0)" id="_pwvBsGbrEDiYXIL-TNWsLA">
+      <image x="4.0" width="16.0" y="5.0" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAIGNIUk0AAG8dAAB6pAAA9NYAAIZwAAB37gAA9bAAADqjAAAVsi1zQqwAAAMAUExURQAAAP///8HBw6Ky1rfD3Ymh0au73Ku62Yag0aq72bPB27fD2b7J3YWh0Ieiz4ahzomk0Z2z2Ki72bPD3L7J23eXyIajz7TE27PD2rTD2maPxbvK38PP32OMwGSMvYamz7PE2LXE10V/vkh/v0d/vEiAvUh+vFGEu1OEvGaEpqC40kaBvUWAukd/ukmBvGGQvmSGqWOEpZ+61QA9cwA8cgA7cQI7cAM8czZ0rT16sEF9s0J9tUSBuE6GuVGFt2OGpmSHp2OEo2WGpWSFpAA8cAA9cAA7bwA8bgA9bgA7bQI8bgI8bD18slCGtWKFo2OGpGSHpQA9bAA7aDR3rAWBSUOcbHGxdf///wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADH1d5AAAABYdFJOU////////////////////////////////////////////////////////////////////////////////////////////////////////////////////wB4m8IIAAAA2UlEQVR42lSPzUoCURhAz/0cUrhjTYzuIu0PicZFy57ABxjQdxR8iQQJYmrTDYJZNEZQC2fGHPIndVyUkGdz4OyO6rCL/Mqkj//Ce8iR8Uge/sJzNUqG+etocH4PqA6TQEpfUzWvlBoOFDyKrsnOLnQi1weAEKRG37iTWWs8iJ9AqN9Ns/0sqL3oVf8YCl7UGO05lbKTDRer0FxZXNL8CE/tNMaHHgLx9+zkU9++gUDXgqK45Z8YH8DHAh3Z9tIGAWFtATUID2GNykFtb7vgq7y3vYV2G3JgMwDzTEnCPC8r9AAAAABJRU5ErkJggg==" height="16.0"/>
+      <text text-anchor="start" x="22.0" y="16.0" font-size="13" font-style="normal" fill="rgb(0, 0, 0)">build_ensemble(): Ensemble</text>
+    </g>
+    <g transform="translate(0.0,62.0)" id="_uoFLIWbrEDiYXIL-TNWsLA">
+      <image x="4.0" width="16.0" y="5.0" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAIGNIUk0AAG8dAAB6pAAA9NYAAIZwAAB37gAA9bAAADqjAAAVsi1zQqwAAAMAUExURQAAAP///8HBw6Ky1rfD3Ymh0au73Ku62Yag0aq72bPB27fD2b7J3YWh0Ieiz4ahzomk0Z2z2Ki72bPD3L7J23eXyIajz7TE27PD2rTD2maPxbvK38PP32OMwGSMvYamz7PE2LXE10V/vkh/v0d/vEiAvUh+vFGEu1OEvGaEpqC40kaBvUWAukd/ukmBvGGQvmSGqWOEpZ+61QA9cwA8cgA7cQI7cAM8czZ0rT16sEF9s0J9tUSBuE6GuVGFt2OGpmSHp2OEo2WGpWSFpAA8cAA9cAA7bwA8bgA9bgA7bQI8bgI8bD18slCGtWKFo2OGpGSHpQA9bAA7aDR3rAWBSUOcbHGxdf///wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADH1d5AAAABYdFJOU////////////////////////////////////////////////////////////////////////////////////////////////////////////////////wB4m8IIAAAA2UlEQVR42lSPzUoCURhAz/0cUrhjTYzuIu0PicZFy57ABxjQdxR8iQQJYmrTDYJZNEZQC2fGHPIndVyUkGdz4OyO6rCL/Mqkj//Ce8iR8Uge/sJzNUqG+etocH4PqA6TQEpfUzWvlBoOFDyKrsnOLnQi1weAEKRG37iTWWs8iJ9AqN9Ns/0sqL3oVf8YCl7UGO05lbKTDRer0FxZXNL8CE/tNMaHHgLx9+zkU9++gUDXgqK45Z8YH8DHAh3Z9tIGAWFtATUID2GNykFtb7vgq7y3vYV2G3JgMwDzTEnCPC8r9AAAAABJRU5ErkJggg==" height="16.0"/>
+      <text text-anchor="start" x="22.0" y="16.0" font-size="13" font-style="normal" fill="rgb(0, 0, 0)">build_train_op(): TrainOpSpec</text>
+    </g>
+  </g>
+  <g transform="translate(636.0,695.0)" id="_qmG_8GbqEDiYXIL-TNWsLA">
+    <rect rx="3.0" ry="3.0" x="0.0" width="200.0px" y="0.0" stroke-width="1.0" fill="url(#e6f57136-b373-41f2-921e-361bbfc1811b)" stroke="rgb(187, 187, 187)" look="allInOne" height="80.0px"/>
+    <text font-weight="bold" text-anchor="middle" x="100.0" y="19.0" font-size="13" font-style="normal" fill="rgb(3, 54, 86)">MeanEnsemble</text>
+    <text text-anchor="middle" x="100.0" y="35.0" font-size="12" fill="rgb(105, 105, 105)">(from ensemble)</text>
+    <line y1="42.0" x1="0.0" y2="42.0" x2="200.0" stroke-width="1.0" stroke="rgb(187, 187, 187)" look="border"/>
+    <g transform="translate(0.0,42.0)" id="_24FScWbrEDiYXIL-TNWsLA">
+      <image x="4.0" width="16.0" y="5.0" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAIGNIUk0AAG8dAAB6pAAA9NYAAIZwAAB37gAA9bAAADqjAAAVsi1zQqwAAAMAUExURQAAAP////3+/ypvqCtuqCtvqDF0qzp5rzp4rjp5rkN/skOAskR/sk2Ftk2GtlWMulaMulaNulaMuV6Svl6RvV6SvV+SvWWWwGWXwGqawvr9/+35//b8//L7/+T3/+H3/+T4/+z6/+36/+P4/+f5//L8//b9/wWBSUOcbHGxdf///wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACj1MwgAAAArdFJOU////////////////////////////////////////////////////////wAjyafQAAAAjklEQVR42lyPMQrCUBBE364bbbSwEcE+EO9/l0AqIZ0K2in8v7sWIkmc7s1MMSNnltI/xnjMcY8Rt4kPYNRjIYUUaCoYvr3vvvlzU0DxVyFiHetIcTDcgiZr4+EWYPjKrwC8udB3RtZTUSDGFgaMHDVBKqBBL7/pfQsaYIsXSsyMQHLeGGhhmN52HSTwGQCflTcMX9qOTgAAAABJRU5ErkJggg==" height="16.0"/>
+      <text text-anchor="start" x="22.0" y="16.0" font-size="13" fill="rgb(0, 0, 0)">subnetworks: list[Subnetwork]</text>
+    </g>
+  </g>
+  <g transform="translate(868.0,695.0)" id="__Un2YWbqEDiYXIL-TNWsLA">
+    <rect rx="3.0" ry="3.0" x="0.0" width="170.0px" y="0.0" stroke-width="1.0" fill="url(#ad7e82d9-fe71-4115-b0c2-c0ea5f13d5a7)" stroke="rgb(187, 187, 187)" look="allInOne" height="80.0px"/>
+    <text font-weight="bold" text-anchor="middle" x="85.0" y="19.0" font-size="13" font-style="normal" fill="rgb(3, 54, 86)">WeightedSubnetwork</text>
+    <text text-anchor="middle" x="85.0" y="35.0" font-size="12" fill="rgb(105, 105, 105)">(from ensemble)</text>
+    <line y1="42.0" x1="0.0" y2="42.0" x2="170.0" stroke-width="1.0" stroke="rgb(187, 187, 187)" look="border"/>
+    <g transform="translate(0.0,42.0)" id="_AEXRQGbrEDiYXIL-TNWsLA">
+      <image x="4.0" width="16.0" y="5.0" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAIGNIUk0AAG8dAAB6pAAA9NYAAIZwAAB37gAA9bAAADqjAAAVsi1zQqwAAAMAUExURQAAAP////3+/ypvqCtuqCtvqDF0qzp5rzp4rjp5rkN/skOAskR/sk2Ftk2GtlWMulaMulaNulaMuV6Svl6RvV6SvV+SvWWWwGWXwGqawvr9/+35//b8//L7/+T3/+H3/+T4/+z6/+36/+P4/+f5//L8//b9/wWBSUOcbHGxdf///wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACj1MwgAAAArdFJOU////////////////////////////////////////////////////////wAjyafQAAAAjklEQVR42lyPMQrCUBBE364bbbSwEcE+EO9/l0AqIZ0K2in8v7sWIkmc7s1MMSNnltI/xnjMcY8Rt4kPYNRjIYUUaCoYvr3vvvlzU0DxVyFiHetIcTDcgiZr4+EWYPjKrwC8udB3RtZTUSDGFgaMHDVBKqBBL7/pfQsaYIsXSsyMQHLeGGhhmN52HSTwGQCflTcMX9qOTgAAAABJRU5ErkJggg==" height="16.0"/>
+      <text text-anchor="start" x="22.0" y="16.0" font-size="13" fill="rgb(0, 0, 0)">subnetwork: Subnetwork</text>
+    </g>
+  </g>
+  <g transform="translate(705.0,899.0)" id="_J_wjYWbrEDiYXIL-TNWsLA">
+    <rect rx="3.0" ry="3.0" x="0.0" width="313.0px" y="0.0" stroke-width="1.0" fill="url(#36960863-dd3e-4497-914b-fcc61a0de847)" stroke="rgb(187, 187, 187)" look="allInOne" height="85.0px"/>
+    <text font-weight="bold" text-anchor="middle" x="156.5" y="19.0" font-size="13" font-style="normal" fill="rgb(3, 54, 86)">ComplexityRegularized</text>
+    <text text-anchor="middle" x="156.5" y="35.0" font-size="12" fill="rgb(105, 105, 105)">(from ensemble)</text>
+    <line y1="42.0" x1="0.0" y2="42.0" x2="313.0" stroke-width="1.0" stroke="rgb(187, 187, 187)" look="border"/>
+    <g transform="translate(0.0,42.0)" id="_4umIIGbrEDiYXIL-TNWsLA">
+      <image x="4.0" width="16.0" y="5.0" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAIGNIUk0AAG8dAAB6pAAA9NYAAIZwAAB37gAA9bAAADqjAAAVsi1zQqwAAAMAUExURQAAAP////3+/ypvqCtuqCtvqDF0qzp5rzp4rjp5rkN/skOAskR/sk2Ftk2GtlWMulaMulaNulaMuV6Svl6RvV6SvV+SvWWWwGWXwGqawvr9/+35//b8//L7/+T3/+H3/+T4/+z6/+36/+P4/+f5//L8//b9/wWBSUOcbHGxdf///wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACj1MwgAAAArdFJOU////////////////////////////////////////////////////////wAjyafQAAAAjklEQVR42lyPMQrCUBBE364bbbSwEcE+EO9/l0AqIZ0K2in8v7sWIkmc7s1MMSNnltI/xnjMcY8Rt4kPYNRjIYUUaCoYvr3vvvlzU0DxVyFiHetIcTDcgiZr4+EWYPjKrwC8udB3RtZTUSDGFgaMHDVBKqBBL7/pfQsaYIsXSsyMQHLeGGhhmN52HSTwGQCflTcMX9qOTgAAAABJRU5ErkJggg==" height="16.0"/>
+      <text text-anchor="start" x="22.0" y="16.0" font-size="13" fill="rgb(0, 0, 0)">subnetworks: list[Subnetwork]</text>
+    </g>
+    <g transform="translate(0.0,62.0)" id="_Sy02UGb9EDiYXIL-TNWsLA">
+      <image x="4.0" width="16.0" y="5.0" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAIGNIUk0AAG8dAAB6pAAA9NYAAIZwAAB37gAA9bAAADqjAAAVsi1zQqwAAAMAUExURQAAAP////3+/ypvqCtuqCtvqDF0qzp5rzp4rjp5rkN/skOAskR/sk2Ftk2GtlWMulaMulaNulaMuV6Svl6RvV6SvV+SvWWWwGWXwGqawvr9/+35//b8//L7/+T3/+H3/+T4/+z6/+36/+P4/+f5//L8//b9/wWBSUOcbHGxdf///wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACj1MwgAAAArdFJOU////////////////////////////////////////////////////////wAjyafQAAAAjklEQVR42lyPMQrCUBBE364bbbSwEcE+EO9/l0AqIZ0K2in8v7sWIkmc7s1MMSNnltI/xnjMcY8Rt4kPYNRjIYUUaCoYvr3vvvlzU0DxVyFiHetIcTDcgiZr4+EWYPjKrwC8udB3RtZTUSDGFgaMHDVBKqBBL7/pfQsaYIsXSsyMQHLeGGhhmN52HSTwGQCflTcMX9qOTgAAAABJRU5ErkJggg==" height="16.0"/>
+      <text text-anchor="start" x="22.0" y="16.0" font-size="13" fill="rgb(0, 0, 0)">weighted_subnetworks: list[WeightedSubnetwork]</text>
+    </g>
+  </g>
+  <g transform="translate(344.0,899.0)" id="_KtNfQmbrEDiYXIL-TNWsLA">
+    <rect rx="3.0" ry="3.0" x="0.0" width="333.0px" y="0.0" stroke-width="1.0" fill="url(#19cea0c5-26b0-46b2-8c00-e7b8036118ea)" stroke="rgb(187, 187, 187)" look="allInOne" height="106.0px"/>
+    <text font-weight="bold" text-anchor="middle" x="166.5" y="19.0" font-size="13" font-style="normal" fill="rgb(3, 54, 86)">ComplexityRegularizedEnsembler</text>
+    <text text-anchor="middle" x="166.5" y="35.0" font-size="12" fill="rgb(105, 105, 105)">(from ensemble)</text>
+    <line y1="42.0" x1="0.0" y2="42.0" x2="333.0" stroke-width="1.0" stroke="rgb(187, 187, 187)" look="border"/>
+    <g transform="translate(0.0,42.0)" id="_yRY0IWbrEDiYXIL-TNWsLA">
+      <image x="4.0" width="16.0" y="5.0" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAIGNIUk0AAG8dAAB6pAAA9NYAAIZwAAB37gAA9bAAADqjAAAVsi1zQqwAAAMAUExURQAAAP///8HBw6Ky1rfD3Ymh0au73Ku62Yag0aq72bPB27fD2b7J3YWh0Ieiz4ahzomk0Z2z2Ki72bPD3L7J23eXyIajz7TE27PD2rTD2maPxbvK38PP32OMwGSMvYamz7PE2LXE10V/vkh/v0d/vEiAvUh+vFGEu1OEvGaEpqC40kaBvUWAukd/ukmBvGGQvmSGqWOEpZ+61QA9cwA8cgA7cQI7cAM8czZ0rT16sEF9s0J9tUSBuE6GuVGFt2OGpmSHp2OEo2WGpWSFpAA8cAA9cAA7bwA8bgA9bgA7bQI8bgI8bD18slCGtWKFo2OGpGSHpQA9bAA7aDR3rAWBSUOcbHGxdf///wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADH1d5AAAABYdFJOU////////////////////////////////////////////////////////////////////////////////////////////////////////////////////wB4m8IIAAAA2UlEQVR42lSPzUoCURhAz/0cUrhjTYzuIu0PicZFy57ABxjQdxR8iQQJYmrTDYJZNEZQC2fGHPIndVyUkGdz4OyO6rCL/Mqkj//Ce8iR8Uge/sJzNUqG+etocH4PqA6TQEpfUzWvlBoOFDyKrsnOLnQi1weAEKRG37iTWWs8iJ9AqN9Ns/0sqL3oVf8YCl7UGO05lbKTDRer0FxZXNL8CE/tNMaHHgLx9+zkU9++gUDXgqK45Z8YH8DHAh3Z9tIGAWFtATUID2GNykFtb7vgq7y3vYV2G3JgMwDzTEnCPC8r9AAAAABJRU5ErkJggg==" height="16.0"/>
+      <text text-anchor="start" x="22.0" y="16.0" font-size="13" font-style="normal" fill="rgb(0, 0, 0)">build_ensemble(): Ensemble</text>
+    </g>
+    <g transform="translate(0.0,62.0)" id="_041-kGbrEDiYXIL-TNWsLA">
+      <image x="4.0" width="16.0" y="5.0" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAIGNIUk0AAG8dAAB6pAAA9NYAAIZwAAB37gAA9bAAADqjAAAVsi1zQqwAAAMAUExURQAAAP///8HBw6Ky1rfD3Ymh0au73Ku62Yag0aq72bPB27fD2b7J3YWh0Ieiz4ahzomk0Z2z2Ki72bPD3L7J23eXyIajz7TE27PD2rTD2maPxbvK38PP32OMwGSMvYamz7PE2LXE10V/vkh/v0d/vEiAvUh+vFGEu1OEvGaEpqC40kaBvUWAukd/ukmBvGGQvmSGqWOEpZ+61QA9cwA8cgA7cQI7cAM8czZ0rT16sEF9s0J9tUSBuE6GuVGFt2OGpmSHp2OEo2WGpWSFpAA8cAA9cAA7bwA8bgA9bgA7bQI8bgI8bD18slCGtWKFo2OGpGSHpQA9bAA7aDR3rAWBSUOcbHGxdf///wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADH1d5AAAABYdFJOU////////////////////////////////////////////////////////////////////////////////////////////////////////////////////wB4m8IIAAAA2UlEQVR42lSPzUoCURhAz/0cUrhjTYzuIu0PicZFy57ABxjQdxR8iQQJYmrTDYJZNEZQC2fGHPIndVyUkGdz4OyO6rCL/Mqkj//Ce8iR8Uge/sJzNUqG+etocH4PqA6TQEpfUzWvlBoOFDyKrsnOLnQi1weAEKRG37iTWWs8iJ9AqN9Ns/0sqL3oVf8YCl7UGO05lbKTDRer0FxZXNL8CE/tNMaHHgLx9+zkU9++gUDXgqK45Z8YH8DHAh3Z9tIGAWFtATUID2GNykFtb7vgq7y3vYV2G3JgMwDzTEnCPC8r9AAAAABJRU5ErkJggg==" height="16.0"/>
+      <text text-anchor="start" x="22.0" y="16.0" font-size="13" font-style="normal" fill="rgb(0, 0, 0)">build_train_op(): TrainOpSpec</text>
+    </g>
+    <g transform="translate(0.0,82.0)" id="_85A6ImbrEDiYXIL-TNWsLA">
+      <image x="4.0" width="16.0" y="5.0" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAIGNIUk0AAG8dAAB6pAAA9NYAAIZwAAB37gAA9bAAADqjAAAVsi1zQqwAAAMAUExURQAAAP///8HBw6Ky1rfD3Ymh0au73Ku62Yag0aq72bPB27fD2b7J3YWh0Ieiz4ahzomk0Z2z2Ki72bPD3L7J23eXyIajz7TE27PD2rTD2maPxbvK38PP32OMwGSMvYamz7PE2LXE10V/vkh/v0d/vEiAvUh+vFGEu1OEvGaEpqC40kaBvUWAukd/ukmBvGGQvmSGqWOEpZ+61QA9cwA8cgA7cQI7cAM8czZ0rT16sEF9s0J9tUSBuE6GuVGFt2OGpmSHp2OEo2WGpWSFpAA8cAA9cAA7bwA8bgA9bgA7bQI8bgI8bD18slCGtWKFo2OGpGSHpQA9bAA7aDR3rAWBSUOcbHGxdf///wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADH1d5AAAABYdFJOU////////////////////////////////////////////////////////////////////////////////////////////////////////////////////wB4m8IIAAAA2UlEQVR42lSPzUoCURhAz/0cUrhjTYzuIu0PicZFy57ABxjQdxR8iQQJYmrTDYJZNEZQC2fGHPIndVyUkGdz4OyO6rCL/Mqkj//Ce8iR8Uge/sJzNUqG+etocH4PqA6TQEpfUzWvlBoOFDyKrsnOLnQi1weAEKRG37iTWWs8iJ9AqN9Ns/0sqL3oVf8YCl7UGO05lbKTDRer0FxZXNL8CE/tNMaHHgLx9+zkU9++gUDXgqK45Z8YH8DHAh3Z9tIGAWFtATUID2GNykFtb7vgq7y3vYV2G3JgMwDzTEnCPC8r9AAAAABJRU5ErkJggg==" height="16.0"/>
+      <text text-anchor="start" x="22.0" y="16.0" font-size="13" font-style="normal" fill="rgb(0, 0, 0)">_build_weighted_subnetwork(): WeightedSubnetwork</text>
+    </g>
+  </g>
+  <text text-anchor="middle" x="505.0" y="392.0" fill="rgb(0, 0, 0)"/>
+  <text text-anchor="middle" x="476.0" y="218.0" fill="rgb(0, 0, 0)"/>
+  <text text-anchor="middle" x="476.0" y="409.0" fill="rgb(0, 0, 0)">0..1</text>
+  <text text-anchor="middle" x="506.0" y="207.0" fill="rgb(0, 0, 0)">0..1</text>
+  <text text-anchor="middle" x="860.0" y="489.0" fill="rgb(0, 0, 0)"/>
+  <text text-anchor="middle" x="649.0" y="366.0" fill="rgb(0, 0, 0)"/>
+  <text text-anchor="middle" x="648.0" y="533.0" fill="rgb(0, 0, 0)">0..1</text>
+  <text text-anchor="middle" x="698.0" y="356.0" fill="rgb(0, 0, 0)">0..1</text>
+  <text text-anchor="middle" x="936.0" y="698.0" fill="rgb(0, 0, 0)"/>
+  <text text-anchor="middle" x="648.0" y="368.0" fill="rgb(0, 0, 0)"/>
+  <text text-anchor="middle" x="705.0" y="690.0" fill="rgb(0, 0, 0)">0..1</text>
+  <text text-anchor="middle" x="626.0" y="382.0" fill="rgb(0, 0, 0)">0..1</text>
+  <text text-anchor="middle" x="657.0" y="785.0" fill="rgb(0, 0, 0)"/>
+  <text text-anchor="middle" x="631.0" y="368.0" fill="rgb(0, 0, 0)"/>
+  <text text-anchor="middle" x="714.0" y="884.0" fill="rgb(0, 0, 0)">0..1</text>
+  <text text-anchor="middle" x="609.0" y="357.0" fill="rgb(0, 0, 0)">0..1</text>
+  <text text-anchor="middle" x="979.0" y="694.0" fill="rgb(0, 0, 0)"/>
+  <text text-anchor="middle" x="653.0" y="371.0" fill="rgb(0, 0, 0)"/>
+  <text text-anchor="middle" x="873.0" y="675.0" fill="rgb(0, 0, 0)">0..1</text>
+  <text text-anchor="middle" x="703.0" y="381.0" fill="rgb(0, 0, 0)">0..1</text>
+  <g transform="translate(440.0,318.0)" id="_TMoXEGb1EDiYXIL-TNWsLA"/>
+  <g transform="translate(606.0,451.0)" id="_ZXk2YGb1EDiYXIL-TNWsLA"/>
+  <g transform="translate(594.0,524.0)" id="_bisDEGb1EDiYXIL-TNWsLA"/>
+  <g transform="translate(592.0,867.0)" id="_cWllMGb1EDiYXIL-TNWsLA"/>
+  <g transform="translate(704.0,686.0)" id="_c5xx0Gb1EDiYXIL-TNWsLA"/>
+  <g transform="translate(32.0,12.0)" id="_Dwm2UGbnEDiYXIL-TNWsLA">
+    <rect x="0.0" width="86.0px" y="0.0" stroke-width="1.0" fill="url(#8c037119-1ef7-425d-9602-1299bc57a74f)" stroke="rgb(194, 183, 159)" look="allInOne" height="24.0px"/>
+    <rect x="0.0" width="150.0px" y="24.0" stroke-width="1.0" fill="url(#8c037119-1ef7-425d-9602-1299bc57a74f)" stroke="rgb(194, 183, 159)" look="allInOne" height="26.0px"/>
+    <text font-weight="bold" text-anchor="middle" x="43.0" y="18.0" font-size="13" fill="rgb(128, 98, 33)">subnetwork</text>
+  </g>
+  <g transform="translate(32.0,348.0)" id="_zOv7oGboEDiYXIL-TNWsLA">
+    <rect x="0.0" width="76.0px" y="0.0" stroke-width="1.0" fill="url(#411fa8d4-4e79-4e8b-8da7-2119d27d1704)" stroke="rgb(194, 183, 159)" look="allInOne" height="24.0px"/>
+    <rect x="0.0" width="160.0px" y="24.0" stroke-width="1.0" fill="url(#411fa8d4-4e79-4e8b-8da7-2119d27d1704)" stroke="rgb(194, 183, 159)" look="allInOne" height="26.0px"/>
+    <text font-weight="bold" text-anchor="middle" x="38.0" y="18.0" font-size="13" fill="rgb(128, 98, 33)">ensemble</text>
+  </g>
+  <g id="_ECLSAWboEDiYXIL-TNWsLA">
+    <line y1="243.0" x1="146.0" y2="232.0" x2="146.0" stroke-dasharray="7, 3" id="_ECNHMWboEDiYXIL-TNWsLA" stroke-width="1.0" fill="none" stroke="rgb(0, 0, 0)"/>
+  </g>
+  <g id="_ECLSAWboEDiYXIL-TNWsLA">
+    <line y1="232.0" x1="146.0" y2="232.0" x2="146.0" stroke-dasharray="7, 3" id="_ECNHNGboEDiYXIL-TNWsLA" stroke-width="1.0" fill="none" stroke="rgb(0, 0, 0)"/>
+  </g>
+  <g id="_ECLSAWboEDiYXIL-TNWsLA">
+    <line y1="232.0" x1="146.0" y2="221.0" x2="146.0" stroke-dasharray="7, 3" id="_ECNHNWboEDiYXIL-TNWsLA" stroke-width="1.0" fill="none" stroke="rgb(0, 0, 0)"/>
+    <line y1="232.0" x1="146.0" y2="221.0" x2="146.0" stroke-dasharray="7, 3" id="_ECNHNWboEDiYXIL-TNWsLA" stroke-width="1.0" fill="none" stroke="rgb(0, 0, 0)"/>
+    <polygon transform="translate(146.0,221.0) rotate(-0.0)" stroke-width="1.0" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" points="-6.0,10.0 0.0,0.0 6.0,10.0"/>
+  </g>
+  <g id="_2q3AsGbpEDiYXIL-TNWsLA">
+    <line y1="628.0" x1="187.0" y2="566.0" x2="187.0" stroke-dasharray="7, 3" id="_2q414mbpEDiYXIL-TNWsLA" stroke-width="1.0" fill="none" stroke="rgb(0, 0, 0)"/>
+  </g>
+  <g id="_2q3AsGbpEDiYXIL-TNWsLA">
+    <line y1="566.0" x1="187.0" y2="566.0" x2="187.0" stroke-dasharray="7, 3" id="_2q6EAmbpEDiYXIL-TNWsLA" stroke-width="1.0" fill="none" stroke="rgb(0, 0, 0)"/>
+  </g>
+  <g id="_2q3AsGbpEDiYXIL-TNWsLA">
+    <line y1="566.0" x1="187.0" y2="504.0" x2="187.0" stroke-dasharray="7, 3" id="_2q6EA2bpEDiYXIL-TNWsLA" stroke-width="1.0" fill="none" stroke="rgb(0, 0, 0)"/>
+    <line y1="566.0" x1="187.0" y2="504.0" x2="187.0" stroke-dasharray="7, 3" id="_2q6EA2bpEDiYXIL-TNWsLA" stroke-width="1.0" fill="none" stroke="rgb(0, 0, 0)"/>
+    <polygon transform="translate(187.0,504.0) rotate(-0.0)" stroke-width="1.0" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" points="-6.0,10.0 0.0,0.0 6.0,10.0"/>
+  </g>
+  <g id="_3BL2AWbpEDiYXIL-TNWsLA">
+    <line y1="529.0" x1="187.0" y2="516.0" x2="187.0" stroke-dasharray="7, 3" id="_3BMdE2bpEDiYXIL-TNWsLA" stroke-width="1.0" fill="none" stroke="rgb(0, 0, 0)"/>
+  </g>
+  <g id="_3BL2AWbpEDiYXIL-TNWsLA">
+    <line y1="516.0" x1="187.0" y2="517.0" x2="187.0" stroke-dasharray="7, 3" id="_3BNEIWbpEDiYXIL-TNWsLA" stroke-width="1.0" fill="none" stroke="rgb(0, 0, 0)"/>
+  </g>
+  <g id="_3BL2AWbpEDiYXIL-TNWsLA">
+    <line y1="517.0" x1="187.0" y2="504.0" x2="187.0" stroke-dasharray="7, 3" id="_3BNEImbpEDiYXIL-TNWsLA" stroke-width="1.0" fill="none" stroke="rgb(0, 0, 0)"/>
+    <line y1="517.0" x1="187.0" y2="504.0" x2="187.0" stroke-dasharray="7, 3" id="_3BNEImbpEDiYXIL-TNWsLA" stroke-width="1.0" fill="none" stroke="rgb(0, 0, 0)"/>
+    <polygon transform="translate(187.0,504.0) rotate(-0.0)" stroke-width="1.0" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" points="-6.0,10.0 0.0,0.0 6.0,10.0"/>
+  </g>
+  <g id="_3R7nwWbpEDiYXIL-TNWsLA">
+    <line y1="734.0" x1="187.0" y2="619.0" x2="187.0" stroke-dasharray="7, 3" id="_3R9c8mbpEDiYXIL-TNWsLA" stroke-width="1.0" fill="none" stroke="rgb(0, 0, 0)"/>
+  </g>
+  <g id="_3R7nwWbpEDiYXIL-TNWsLA">
+    <line y1="619.0" x1="187.0" y2="619.0" x2="187.0" stroke-dasharray="7, 3" id="_3R9c9WbpEDiYXIL-TNWsLA" stroke-width="1.0" fill="none" stroke="rgb(0, 0, 0)"/>
+  </g>
+  <g id="_3R7nwWbpEDiYXIL-TNWsLA">
+    <line y1="619.0" x1="187.0" y2="504.0" x2="187.0" stroke-dasharray="7, 3" id="_3R9c9mbpEDiYXIL-TNWsLA" stroke-width="1.0" fill="none" stroke="rgb(0, 0, 0)"/>
+    <line y1="619.0" x1="187.0" y2="504.0" x2="187.0" stroke-dasharray="7, 3" id="_3R9c9mbpEDiYXIL-TNWsLA" stroke-width="1.0" fill="none" stroke="rgb(0, 0, 0)"/>
+    <polygon transform="translate(187.0,504.0) rotate(-0.0)" stroke-width="1.0" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" points="-6.0,10.0 0.0,0.0 6.0,10.0"/>
+  </g>
+  <g id="_sOTs0WbqEDiYXIL-TNWsLA">
+    <line y1="695.0" x1="510.0" y2="672.0" x2="510.0" stroke-dasharray="7, 3" id="_sOUT5GbqEDiYXIL-TNWsLA" stroke-width="1.0" fill="none" stroke="rgb(0, 0, 0)"/>
+  </g>
+  <g id="_sOTs0WbqEDiYXIL-TNWsLA">
+    <line y1="672.0" x1="510.0" y2="672.0" x2="510.0" stroke-dasharray="7, 3" id="_sOUT52bqEDiYXIL-TNWsLA" stroke-width="1.0" fill="none" stroke="rgb(0, 0, 0)"/>
+  </g>
+  <g id="_sOTs0WbqEDiYXIL-TNWsLA">
+    <line y1="672.0" x1="510.0" y2="649.0" x2="510.0" stroke-dasharray="7, 3" id="_sOU68GbqEDiYXIL-TNWsLA" stroke-width="1.0" fill="none" stroke="rgb(0, 0, 0)"/>
+    <line y1="672.0" x1="510.0" y2="649.0" x2="510.0" stroke-dasharray="7, 3" id="_sOU68GbqEDiYXIL-TNWsLA" stroke-width="1.0" fill="none" stroke="rgb(0, 0, 0)"/>
+    <polygon transform="translate(510.0,649.0) rotate(-0.0)" stroke-width="1.0" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" points="-6.0,10.0 0.0,0.0 6.0,10.0"/>
+  </g>
+  <g id="_shIiMWbqEDiYXIL-TNWsLA">
+    <line y1="695.0" x1="736.0" y2="661.0" x2="736.0" stroke-dasharray="7, 3" id="_shJwVGbqEDiYXIL-TNWsLA" stroke-width="1.0" fill="none" stroke="rgb(0, 0, 0)"/>
+  </g>
+  <g id="_shIiMWbqEDiYXIL-TNWsLA">
+    <line y1="661.0" x1="736.0" y2="662.0" x2="736.0" stroke-dasharray="7, 3" id="_shKXYmbqEDiYXIL-TNWsLA" stroke-width="1.0" fill="none" stroke="rgb(0, 0, 0)"/>
+  </g>
+  <g id="_shIiMWbqEDiYXIL-TNWsLA">
+    <line y1="662.0" x1="736.0" y2="628.0" x2="736.0" stroke-dasharray="7, 3" id="_shKXY2bqEDiYXIL-TNWsLA" stroke-width="1.0" fill="none" stroke="rgb(0, 0, 0)"/>
+    <line y1="662.0" x1="736.0" y2="628.0" x2="736.0" stroke-dasharray="7, 3" id="_shKXY2bqEDiYXIL-TNWsLA" stroke-width="1.0" fill="none" stroke="rgb(0, 0, 0)"/>
+    <polygon transform="translate(736.0,628.0) rotate(-0.0)" stroke-width="1.0" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" points="-6.0,10.0 0.0,0.0 6.0,10.0"/>
+  </g>
+  <g id="_X9cmQWbrEDiYXIL-TNWsLA">
+    <line y1="899.0" x1="510.0" y2="774.0" x2="510.0" stroke-dasharray="7, 3" id="_X9ebcmbrEDiYXIL-TNWsLA" stroke-width="1.0" fill="none" stroke="rgb(0, 0, 0)"/>
+  </g>
+  <g id="_X9cmQWbrEDiYXIL-TNWsLA">
+    <line y1="774.0" x1="510.0" y2="774.0" x2="510.0" stroke-dasharray="7, 3" id="_X9fCgWbrEDiYXIL-TNWsLA" stroke-width="1.0" fill="none" stroke="rgb(0, 0, 0)"/>
+  </g>
+  <g id="_X9cmQWbrEDiYXIL-TNWsLA">
+    <line y1="774.0" x1="510.0" y2="649.0" x2="510.0" stroke-dasharray="7, 3" id="_X9fCgmbrEDiYXIL-TNWsLA" stroke-width="1.0" fill="none" stroke="rgb(0, 0, 0)"/>
+    <line y1="774.0" x1="510.0" y2="649.0" x2="510.0" stroke-dasharray="7, 3" id="_X9fCgmbrEDiYXIL-TNWsLA" stroke-width="1.0" fill="none" stroke="rgb(0, 0, 0)"/>
+    <polygon transform="translate(510.0,649.0) rotate(-0.0)" stroke-width="1.0" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" points="-6.0,10.0 0.0,0.0 6.0,10.0"/>
+  </g>
+  <g id="_YTZBEWbrEDiYXIL-TNWsLA">
+    <line y1="899.0" x1="770.0" y2="763.0" x2="770.0" stroke-dasharray="7, 3" id="_YTaPM2brEDiYXIL-TNWsLA" stroke-width="1.0" fill="none" stroke="rgb(0, 0, 0)"/>
+  </g>
+  <g id="_YTZBEWbrEDiYXIL-TNWsLA">
+    <line y1="763.0" x1="770.0" y2="764.0" x2="770.0" stroke-dasharray="7, 3" id="_YTaPNmbrEDiYXIL-TNWsLA" stroke-width="1.0" fill="none" stroke="rgb(0, 0, 0)"/>
+  </g>
+  <g id="_YTZBEWbrEDiYXIL-TNWsLA">
+    <line y1="764.0" x1="770.0" y2="628.0" x2="770.0" stroke-dasharray="7, 3" id="_YTaPN2brEDiYXIL-TNWsLA" stroke-width="1.0" fill="none" stroke="rgb(0, 0, 0)"/>
+    <line y1="764.0" x1="770.0" y2="628.0" x2="770.0" stroke-dasharray="7, 3" id="_YTaPN2brEDiYXIL-TNWsLA" stroke-width="1.0" fill="none" stroke="rgb(0, 0, 0)"/>
+    <polygon transform="translate(770.0,628.0) rotate(-0.0)" stroke-width="1.0" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" points="-6.0,10.0 0.0,0.0 6.0,10.0"/>
+  </g>
+  <g id="_TLtxEGb1EDiYXIL-TNWsLA">
+    <line y1="424.0" x1="491.0" y2="303.0" x2="491.0" id="_TL6lYmb1EDiYXIL-TNWsLA" stroke-width="1.0" fill="none" stroke="rgb(0, 0, 0)"/>
+    <polygon transform="translate(491.0,424.0) rotate(-180.0)" stroke-width="1.0" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" points="-4.0,8.0 0.0,0.0 4.0,8.0 0.0,16.0"/>
+  </g>
+  <g id="_TLtxEGb1EDiYXIL-TNWsLA">
+    <line y1="303.0" x1="491.0" y2="303.0" x2="491.0" id="_TL7Mcmb1EDiYXIL-TNWsLA" stroke-width="1.0" fill="none" stroke="rgb(0, 0, 0)"/>
+  </g>
+  <g id="_TLtxEGb1EDiYXIL-TNWsLA">
+    <line y1="303.0" x1="491.0" y2="182.0" x2="491.0" id="_TL7Mc2b1EDiYXIL-TNWsLA" stroke-width="1.0" fill="none" stroke="rgb(0, 0, 0)"/>
+  </g>
+  <g id="_ZW3Esmb1EDiYXIL-TNWsLA">
+    <line y1="548.0" x1="663.0" y2="435.0" x2="663.0" id="_ZW-Zcmb1EDiYXIL-TNWsLA" stroke-width="1.0" fill="none" stroke="rgb(0, 0, 0)"/>
+    <polygon transform="translate(663.0,548.0) rotate(-180.0)" stroke-width="1.0" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" points="-4.0,8.0 0.0,0.0 4.0,8.0 0.0,16.0"/>
+  </g>
+  <g id="_ZW3Esmb1EDiYXIL-TNWsLA">
+    <line y1="435.0" x1="663.0" y2="436.0" x2="663.0" id="_ZW_Agmb1EDiYXIL-TNWsLA" stroke-width="1.0" fill="none" stroke="rgb(0, 0, 0)"/>
+  </g>
+  <g id="_ZW3Esmb1EDiYXIL-TNWsLA">
+    <line y1="436.0" x1="663.0" y2="323.0" x2="663.0" id="_ZW_nkGb1EDiYXIL-TNWsLA" stroke-width="1.0" fill="none" stroke="rgb(0, 0, 0)"/>
+  </g>
+  <g id="_biEYAWb1EDiYXIL-TNWsLA">
+    <line y1="695.0" x1="663.0" y2="509.0" x2="663.0" id="_biKeomb1EDiYXIL-TNWsLA" stroke-width="1.0" fill="none" stroke="rgb(0, 0, 0)"/>
+    <polygon transform="translate(663.0,695.0) rotate(-180.0)" stroke-width="1.0" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" points="-4.0,8.0 0.0,0.0 4.0,8.0 0.0,16.0"/>
+  </g>
+  <g id="_biEYAWb1EDiYXIL-TNWsLA">
+    <line y1="509.0" x1="663.0" y2="509.0" x2="663.0" id="_biLFsWb1EDiYXIL-TNWsLA" stroke-width="1.0" fill="none" stroke="rgb(0, 0, 0)"/>
+  </g>
+  <g id="_biEYAWb1EDiYXIL-TNWsLA">
+    <line y1="509.0" x1="663.0" y2="323.0" x2="663.0" id="_biLFsmb1EDiYXIL-TNWsLA" stroke-width="1.0" fill="none" stroke="rgb(0, 0, 0)"/>
+  </g>
+  <g id="_cVv3sGb1EDiYXIL-TNWsLA">
+    <line y1="899.0" x1="729.0" y2="852.0" x2="729.0" id="_cV3zgmb1EDiYXIL-TNWsLA" stroke-width="1.0" fill="none" stroke="rgb(0, 0, 0)"/>
+    <polygon transform="translate(729.0,899.0) rotate(-180.0)" stroke-width="1.0" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" points="-4.0,8.0 0.0,0.0 4.0,8.0 0.0,16.0"/>
+  </g>
+  <g id="_cVv3sGb1EDiYXIL-TNWsLA">
+    <line y1="852.0" x1="729.0" y2="852.0" x2="646.0" id="_cV4akWb1EDiYXIL-TNWsLA" stroke-width="1.0" fill="none" stroke="rgb(0, 0, 0)"/>
+  </g>
+  <g id="_cVv3sGb1EDiYXIL-TNWsLA">
+    <line y1="852.0" x1="646.0" y2="323.0" x2="646.0" id="_cV4akmb1EDiYXIL-TNWsLA" stroke-width="1.0" fill="none" stroke="rgb(0, 0, 0)"/>
+  </g>
+  <g id="_c5HqgWb1EDiYXIL-TNWsLA">
+    <line y1="695.0" x1="913.0" y2="671.0" x2="913.0" id="_c5MjAmb1EDiYXIL-TNWsLA" stroke-width="1.0" fill="none" stroke="rgb(0, 0, 0)"/>
+    <polygon transform="translate(913.0,695.0) rotate(-180.0)" stroke-width="1.0" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" points="-4.0,8.0 0.0,0.0 4.0,8.0 0.0,16.0"/>
+  </g>
+  <g id="_c5HqgWb1EDiYXIL-TNWsLA">
+    <line y1="671.0" x1="913.0" y2="671.0" x2="668.0" id="_c5MjBWb1EDiYXIL-TNWsLA" stroke-width="1.0" fill="none" stroke="rgb(0, 0, 0)"/>
+  </g>
+  <g id="_c5HqgWb1EDiYXIL-TNWsLA">
+    <line y1="671.0" x1="668.0" y2="323.0" x2="668.0" id="_c5MjBmb1EDiYXIL-TNWsLA" stroke-width="1.0" fill="none" stroke="rgb(0, 0, 0)"/>
+  </g>
+</svg>
