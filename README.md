@@ -2,7 +2,7 @@
 
 ## Задание
 
-* Выбрать open-source-проект. Например, на [https://opensource.google/projects/explore/featured].
+* Выбрать open-source-проект. Например, на https://opensource.google/projects/explore/featured.
 * Изучить его архитектуру, найти интересный модуль.
 * Изобразить модуль в виде UML-диаграммы классов.
 * Выделить паттерны и антипаттерны
@@ -121,10 +121,14 @@
     *  \_build_weighted_subnetwork -- Builds an `adanet.ensemble.WeightedSubnetwork`.
 
 
+### Диаграмма классов
+
+Исходники и картинки находятся в figures. При создании был использован [GenMyModel](https://app.genmymodel.com).
+
+
 ### Найденные паттерны.
 1. Команда:
     * subnetwork/generator/TrainOpSpec -- хранит операции для обучения
-    * ensemble/ensembler/TrainOpSpec -- хранит операции для обучения (дубликат класса выше)
     * ensemble/strategy/Candidate -- хранит текущих и предыдущих билдеров
 
 2. Фабричный метод:
